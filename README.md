@@ -11,13 +11,10 @@ If you only have time for one thing, read this:
 ## Tech Meetups - Baltimore and Columbia
 This is just a short list of my favorites. You can find many more at [meetup.com](http://www.meetup.com). Take advantage of meetups to expand your professional network and improve your search for internships and jobs.
 
-[Charm City JS](http://charmcityjs.com/)
-
-[Baltimore NodeSchool](https://nodeschool.io/baltimore/)
-
-[Maryland Software Patterns and Practices](https://www.meetup.com/Maryland-Software-Patterns-Practices/)
-
-[DevOps Columbia](https://www.meetup.com/devops-columbia/)
+- [Charm City JS](http://charmcityjs.com/)
+- [Baltimore NodeSchool](https://nodeschool.io/baltimore/)
+- [Maryland Software Patterns and Practices](https://www.meetup.com/Maryland-Software-Patterns-Practices/)
+- [DevOps Columbia](https://www.meetup.com/devops-columbia/)
 
 ## Who to follow on Twitter
 Short list of thought leaders who consistently post high-quality content on Twitter. Note that Twitter is also an AWESOME place to look for jobs. Often hiring managers will post job openings directly to twitter and say "my DMs are open". I've gotten several interviews this way. It's nice not to have to actually apply :)
@@ -36,23 +33,21 @@ Short list of thought leaders who consistently post high-quality content on Twit
 
 ## Podcasts
 
-- Code Newbie
-- Learn to Code With Me
-- Syntax FM
-- JS Party
-- JavaScript Jabber
-- Changelog
-- React Podcast
+- [Code Newbie](https://www.codenewbie.org/)
+- [Syntax FM](https://syntax.fm/)
+- [JS Party](https://changelog.com/jsparty)
+- [JavaScript Jabber](https://devchat.tv/js-jabber/)
+- [Changelog](https://changelog.com/podcast)
+- [React Podcast](https://reactpodcast.simplecast.fm/)
 
 ## YouTube Channels
 
-- FunFunFunction
-- Crash Course
-- JSConf
-- Computerphile
-- Christopher
-- Ben Awad
-- Traversy Media
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [Crash Course in Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [JSConf](https://www.youtube.com/user/jsconfeu)
+- [Computerphile](https://www.youtube.com/user/Computerphile)
+- [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)
+- [Ben Awad](https://www.youtube.com/user/99baddawg)
 
 ## Free Online Learning Resources
 
@@ -66,5 +61,5 @@ Short list of thought leaders who consistently post high-quality content on Twit
 ### Intermediate and Advanced
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Kyle Simposon's [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
-- Kyle Simposon's [Functional Light Javascript](https://github.com/getify/Functional-Light-JS)
+- [Kyle Simposon's You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
+- [Kyle Simposon's Functional Light Javascript](https://github.com/getify/Functional-Light-JS)
