@@ -1,12 +1,17 @@
 # Web Development Resources (mostly JavaScript)
-
 A list of educational resources for HCC web development students
 
 ## One Thing
-
 If you only have time for one thing, read this:
 
 - [How to Ask Good Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - by Gordon Zhu
+
+## A Total Package
+If you are looking for a high-quality, well-designed web development curriculum, I suggest [The Odin Project](https://www.theodinproject.com/courses). Personally I would skip the Ruby sections, and just do the basics and HTML/CSS/JS/Database stuff.
+
+Skip to the second half of this page for a more tailored list of learning resources.
+
+As an aside, I would advise you to AVOID [Free Code Camp](https://www.freecodecamp.org). My personal opinion is that the quality of the material is very low. The reason I am specifically mentioning this is because Free Code Camp is very popular for some inexplicable reason, and many people will recommend it to you. Those people are not your friends. Friends don't let friends consume low-quality content.
 
 ## Tech Meetups - Baltimore and Columbia
 This is just a short list of my favorites. You can find many more at [meetup.com](http://www.meetup.com). Take advantage of meetups to expand your professional network and improve your search for internships and jobs.
@@ -30,7 +35,6 @@ Short list of thought leaders who consistently post high-quality content on Twit
 - [Suz Hinton: @noopcat](https://twitter.com/noopkat) - Prolific live coding streamer on Twitch
 - [Michael Jackson: @mjackson](https://twitter.com/mjackson) - Co-author of React Router
 
-
 ## Podcasts
 
 - [Code Newbie](https://www.codenewbie.org/)
@@ -43,23 +47,48 @@ Short list of thought leaders who consistently post high-quality content on Twit
 ## YouTube Channels
 
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-- [Crash Course in Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [JSConf](https://www.youtube.com/user/jsconfeu)
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 - [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)
 - [Ben Awad](https://www.youtube.com/user/99baddawg)
 
-## Free Online Learning Resources
+## Free Online Learning Resources, By Topic
 
-### Beginner
+### Computer Science
+- [Crash Course in Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [cs50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - This is excellent content! Just watch the videos. Completing the course work is a big time comitment.
+- [Hardware Basics](https://www.youtube.com/watch?v=9-KUm9YpPm0&list=PLAF8648427BB68706)
+- [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8&list=PLIbUZ3URbL0Gqn0q2-MYJd-3nv6zw7GCQ)
+- [More Operating Systems Basics](https://www.youtube.com/watch?v=OJy9C5Gn4Sc)
+- [Programming Language Concepts](https://www.youtube.com/watch?v=vjtywpx2SDY&list=PL7141DE955793D3F0)
+- [Algorithms and Data Structures](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+- [Time Complexity Analysis](https://discrete.gr/complexity/)
+- [Big O Cheatsheet](http://bigocheatsheet.com/)
 
+### Networking and the Internet
+- [Introduction to Networking](http://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) - BEST resource. Read this first!
+- [How the Internet Works for Developers](https://www.youtube.com/watch?v=e4S8zfLdLgQ&t=)
+- [Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
+- [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
+- [Example of a simple browser request](https://www.youtube.com/watch?v=rKpqmXYUWaQ)
+
+### HTML and CSS
+- [How does the browser render websites?](https://www.youtube.com/watch?v=SmE4OwHztCc)
 - [Learn to Code HTML and CSS with Shay Howe](https://learn.shayhowe.com/)
 - [HTML and CSS is Hard](https://internetingishard.com/html-and-css/)
+- [Learning HTML with Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+
+### Javascript
 - [Codecademy's Intro to Javascript Course](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript)
-
-### Intermediate and Advanced
-
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Kyle Simposon's You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
-- [Kyle Simposon's Functional Light Javascript](https://github.com/getify/Functional-Light-JS)
+- [Javascript Event Loop Explained](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+### Job-Related Docs
+- [What I Wish I Knew When I Started](https://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791)
+- [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/book/) - This free e-book is bad ass and after reading it you will be very agressive when negotiating your salary, lol.
+
+### Other Tools and Technologies
+- [VS Code Text Editor](https://code.visualstudio.com/) - Best tool for editing code documents
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
