@@ -13,6 +13,9 @@ Skip to the second half of this page for a more tailored list of learning resour
 
 As an aside, I would advise you to AVOID [Free Code Camp](https://www.freecodecamp.org). My personal opinion is that the quality of the material is very low. The reason I am specifically mentioning this is because Free Code Camp is very popular for some inexplicable reason, and many people will recommend it to you. Those people are not your friends. Friends don't let friends consume low-quality content.
 
+## Learning with a Community
+Very early in your learning path, you should consider working with other learners. One great way to do that is through [Chingu](https://chingu.io/). Its a distributed community of web development students who build projects together. This will help you expand not only your technical skills, but also your interpersonal and communication skills. These skills are arguably more important (and more scarce in the market) than tech skills. Chingu requires an application, so apply early! Also consider doing multiple rounds as your skill advance.
+
 ## Tech Meetups - Baltimore and Columbia
 This is just a short list of my favorites. You can find many more at [meetup.com](http://www.meetup.com). Take advantage of meetups to expand your professional network and improve your search for internships and jobs.
 
