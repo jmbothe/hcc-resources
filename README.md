@@ -9,7 +9,7 @@ If you only have time for one thing, read this:
 ## A Total Package
 If you are looking for a high-quality, well-designed web development curriculum, I suggest [The Odin Project](https://www.theodinproject.com/courses). Personally I would skip the Ruby sections, and just do the basics and HTML/CSS/JS/Database stuff.
 
-Skip to the second half of this page for a more tailored list of learning resources.
+Skip to the second half of this page for a more tailored list of learning resources. I would suggest doing some of the Computer Science and Networking sections below, before starting The Odin Project.
 
 As an aside, I would advise you to AVOID [Free Code Camp](https://www.freecodecamp.org). My personal opinion is that the quality of the material is very low. The reason I am specifically mentioning this is because Free Code Camp is very popular for some inexplicable reason, and many people will recommend it to you. Those people are not your friends. Friends don't let friends consume low-quality content.
 
