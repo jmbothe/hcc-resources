@@ -7,15 +7,15 @@ If you only have time for one thing, read this:
 - [How to Ask Good Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - by Gordon Zhu
 
 ## Two Things
-If you only have time for two things, read the above, then read this. Every modern human should know this stuff. Every software developer should DEFINITELY know this stuff.
+If you only have time for two things, read the above, then read this. Every modern human should know this stuff. **Every software developer should DEFINITELY know this stuff**.
 - [Introduction to Networking](http://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) - by Charles Severence
 
 ## A Total Package
-If you are looking for a high-quality, well-designed web development curriculum, I suggest [The Odin Project](https://www.theodinproject.com/courses). Personally I would skip the Ruby sections, and just do the basics and HTML/CSS/JS/Database stuff.
+If you are looking for a high-quality, well-designed web development curriculum, I suggest [The Odin Project](https://www.theodinproject.com/courses). **Personally I would skip the Ruby sections, and just do the basics and HTML/CSS/JS/Database stuff.**
 
-Skip to the second half of this page for a more tailored list of learning resources. I would suggest doing some of the Computer Science and Networking sections below, before starting The Odin Project.
+Skip to the second half of this document for a more tailored list of learning resources. **I would suggest doing some of the Computer Science and Networking sections below, before starting The Odin Project.**
 
-As an aside, I would advise you to AVOID [Free Code Camp](https://www.freecodecamp.org) (NOTE: this pejudice is 3 years old. I haven't looked at free code camp in ages. maybe its improved?). My personal opinion is that the quality of the material is very low. The reason I am specifically mentioning this is because Free Code Camp is very popular for some inexplicable reason, and many people will recommend it to you. Those people are not your friends. Friends don't let friends consume low-quality content.
+As an aside, I would advise you to **AVOID** [Free Code Camp](https://www.freecodecamp.org) (NOTE: this pejudice is 3 years old. I haven't looked at free code camp in ages. maybe its improved?). My personal opinion is that the quality of the material is very low. The reason I am specifically mentioning this is because Free Code Camp is very popular for some inexplicable reason, and many people will recommend it to you. Those people are not your friends. Friends don't let friends consume low-quality content.
 
 ## Learning with a Community
 Very early in your learning path, you should consider working with other learners. One great way to do that is through [Chingu](https://chingu.io/). Its a distributed community of web development students who build projects together. This will help you expand not only your technical skills, but also your interpersonal and communication skills. These skills are arguably more important (and more scarce in the market) than tech skills. Chingu requires an application, so apply early! Also consider doing multiple rounds as your skill advance.
