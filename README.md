@@ -1,4 +1,4 @@
-# Web Development Resources (mostly JavaScript)
+# Web Development Resources
 A list of educational resources for HCC web development students
 
 ## One Thing
