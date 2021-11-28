@@ -6,9 +6,18 @@ If you only have time for one thing, read this:
 
 - [How to Ask Good Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - by Gordon Zhu
 
+This article is specifically focused on code-related questions, but the true nuggets of wisdom come through in phrases like:
+> Do not waste someone else’s time and ask them to do something that you should do yourself.
+
+and
+
+> Do not punish people that want to help you.
+
 ## Two Things
-If you only have time for two things, read the above, then read this. Every modern human should know this stuff. **Every software developer should DEFINITELY know this stuff**.
+If you only have time for two things, read the above, then read this:
 - [Introduction to Networking](http://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) - by Charles Severence
+
+Every modern human should know this stuff. **Every software developer should DEFINITELY know this stuff**.
 
 ## A Total Package
 If you are looking for a high-quality, well-designed web development curriculum, I suggest [The Odin Project](https://www.theodinproject.com/courses). **Personally I would skip the Ruby sections, and just do the basics and HTML/CSS/JS/Database stuff.**
